@@ -17,11 +17,10 @@
 1. Open the Run and Debug Panel by pressing `Ctrl+Shift+D`.
 2. Select a configuration from the dropdown.
 3. Press the green play button (or `F5`) to start running the application.
-4.
 
 ## How to Install Bun
 
-This project uses Bun.js for efficient JavaScript runtime. Install it globally using:
+Bun is an all-in-one JavaScript runtime & toolkit designed for speed, complete with a bundler, test runner, and Node.js-compatible package manager. Install it globally using:
 
 ```bash
 npm install -g bun
