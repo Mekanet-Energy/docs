@@ -1,1 +1,1 @@
-[https://github.com/Mekanet-Energy/docs/wiki](https://github.com/Mekanet-Energy/docs/wiki)
+[See the docs here>](https://github.com/Mekanet-Energy/docs/wiki)
